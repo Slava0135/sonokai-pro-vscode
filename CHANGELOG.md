@@ -1,8 +1,13 @@
 # Change Log
 
-All notable changes to the "sonokai" extension will be documented in this file.
+All notable changes to the "Sonokai Pro" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## 0.3.0
+
+- Update name, README, etc...
+- New logo by __slava0135__.
 
 ## 0.2.9
 
